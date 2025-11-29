@@ -1,3 +1,2 @@
 # hello-world
-This repositery is for creating priject
-redo
+This repositery is for creating project
