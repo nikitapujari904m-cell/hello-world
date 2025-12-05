@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nikita Pujari | Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- HEADER -->
+    <header>
+        <div class="container">
+            <h1>Nikita Jakappa Pujari</h1>
+            <p class="tagline">Second Year Engineering Student | Frontend Developer | Katalyst Scholar</p>
+        </div>
+    </header>
+
+    <!-- ABOUT SECTION -->
+    <section id="about">
+        <div class="container about-content">
+            <img src="profile.jpg" alt="Nikita Pujari" class="profile-img">
+            <div>
+                <h2>About Me</h2>
+                <p>
+                    I am Nikita Jakappa Pujari, a second-year engineering student at Bharati Vidyapeeth Women’s College of Engineering, Pune.  
+                    I am a passionate learner who loves travelling, reading, and writing.  
+                    I am also a proud <b>Katalyst Scholar</b>.  
+                    I enjoy building websites and exploring new technologies.  
+                    I believe in growth, creativity, and consistent learning.
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <!-- SKILLS -->
+    <section id="skills">
+        <div class="container">
+            <h2>Skills</h2>
+            <ul class="skills-list">
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>Frontend Development</li>
+                <li>Backend Development</li>
+                <li>C</li>
+                <li>C++</li>
+                <li>Java</li>
+                <li>Python</li>
+                <li>MATLAB</li>
+                <li>Communication</li>
+                <li>Leadership</li>
+            </ul>
+        </div>
+    </section>
+
+    <!-- PROJECTS -->
+    <section id="projects">
+        <div class="container">
+            <h2>Projects</h2>
+
+            <div class="project-card">
+                <h3>NEXT2CAMPUS – MHTCET Student Help Portal</h3>
+                <p>
+                    A digital support platform designed to help MHTCET aspirants with study resources, guidance, 
+                    counselling assistance, and updates. Focused on simplifying exam preparation.
+                </p>
+            </div>
+
+            <div class="project-card">
+                <h3>More Projects Coming Soon</h3>
+                <p>As I continue learning, I will add more projects to this portfolio.</p>
+            </div>
+
+        </div>
+    </section>
+
+    <!-- CONTACT -->
+    <section id="contact">
+        <div class="container">
+            <h2>Contact</h2>
+            <p><b>Email:</b> <a href="mailto:nikitapujari904m@gmail.com">nikitapujari904m@gmail.com</a></p>
+            <p><b>Phone:</b> 7875415030</p>
+            <p><b>City:</b> Pune</p>
+            <p><b>Address:</b> Bharati Vidyapeeth Women's College of Engineering – Girls Hostel</p>
+            <p><b>GitHub:</b> <a href="https://github.com/nikitapujari904m-cell" target="_blank">github.com/nikitapujari904m-cell</a></p>
+            <p><b>LinkedIn:</b> <a href="https://www.linkedin.com/in/nikita-pujari-0a5964345" target="_blank">linkedin.com/in/nikita-pujari</a></p>
+        </div>
+    </section>
+
+    <!-- FOOTER -->
+    <footer>
+        <p>© 2025 Nikita Pujari | All Rights Reserved</p>
+    </footer>
+
+</body>
+</html>
